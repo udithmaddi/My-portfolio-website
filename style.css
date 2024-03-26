@@ -229,11 +229,12 @@ p {
 /* End Header section */
 
 /* Hero Section */
-#hero .back-video {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  z-index: -1;
+#hero {
+  background-image: url(./image/main-page-background.jpg);
+  background-size: cover;
+  background-position: top center;
+  position: relative;
+  z-index: 1;
 }
 
 #hero::after {
