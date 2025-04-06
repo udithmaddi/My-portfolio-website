@@ -4,7 +4,7 @@ A responsive personal portfolio website built using **HTML, CSS, and JavaScript*
 
 ## 📌 Live Demo
 
-[🔗 View Live Website]([https://your-live-link.com](https://udith-portfolio.vercel.app/))
+[🔗 View Live Website]((https://udith-portfolio.vercel.app/))
 
 ---
 
